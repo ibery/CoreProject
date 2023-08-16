@@ -1,0 +1,17 @@
+/Users/ibrahimeryilmaz/Belgelerim/asp core/CoreProject/DataAccessLayer/bin/Debug/net6.0/DataAccessLayer.deps.json
+/Users/ibrahimeryilmaz/Belgelerim/asp core/CoreProject/DataAccessLayer/bin/Debug/net6.0/DataAccessLayer.runtimeconfig.json
+/Users/ibrahimeryilmaz/Belgelerim/asp core/CoreProject/DataAccessLayer/bin/Debug/net6.0/DataAccessLayer.dll
+/Users/ibrahimeryilmaz/Belgelerim/asp core/CoreProject/DataAccessLayer/bin/Debug/net6.0/DataAccessLayer.pdb
+/Users/ibrahimeryilmaz/Belgelerim/asp core/CoreProject/DataAccessLayer/bin/Debug/net6.0/EntityLayer.dll
+/Users/ibrahimeryilmaz/Belgelerim/asp core/CoreProject/DataAccessLayer/bin/Debug/net6.0/EntityLayer.pdb
+/Users/ibrahimeryilmaz/Belgelerim/asp core/CoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.csproj.AssemblyReference.cache
+/Users/ibrahimeryilmaz/Belgelerim/asp core/CoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimeryilmaz/Belgelerim/asp core/CoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.AssemblyInfoInputs.cache
+/Users/ibrahimeryilmaz/Belgelerim/asp core/CoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.AssemblyInfo.cs
+/Users/ibrahimeryilmaz/Belgelerim/asp core/CoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/ibrahimeryilmaz/Belgelerim/asp core/CoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.csproj.CopyComplete
+/Users/ibrahimeryilmaz/Belgelerim/asp core/CoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.dll
+/Users/ibrahimeryilmaz/Belgelerim/asp core/CoreProject/DataAccessLayer/obj/Debug/net6.0/refint/DataAccessLayer.dll
+/Users/ibrahimeryilmaz/Belgelerim/asp core/CoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.pdb
+/Users/ibrahimeryilmaz/Belgelerim/asp core/CoreProject/DataAccessLayer/obj/Debug/net6.0/DataAccessLayer.genruntimeconfig.cache
+/Users/ibrahimeryilmaz/Belgelerim/asp core/CoreProject/DataAccessLayer/obj/Debug/net6.0/ref/DataAccessLayer.dll
